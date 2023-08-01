@@ -1,0 +1,21 @@
+import Logo from "../assets/logo.png"
+import BannerOne from "../assets/bannerOne.png"
+import BannerTwo from "../assets/bannerTwo.png"
+import CreativeOne from "../assets/CreativeOne.png"
+import CreativeTwo from "../assets/CreativeTwo.png"
+import CreativeThree from "../assets/CreativeThree.png"
+import ProtfolioOne from "../assets/protfolioOne.png"
+import ProtfolioTwo from "../assets/protfolioTwo.png"
+import ServiceOne from "../assets/serviceOne.png"
+import ServiceTwo from "../assets/serviceTwo.png"
+import ServiceThree from "../assets/serviceThree.png"
+import WorkOne from "../assets/workOne.png"
+import WorkTwo from "../assets/workTwo.png"
+import WorkThree from "../assets/workThree.png"
+import WorkFour from "../assets/workFour.png"
+import WorkFive from "../assets/workFive.png"
+import WorkSix from "../assets/workSix.png"
+import Blog from "../assets/blog.png"
+
+
+export {Logo,BannerOne,BannerTwo,CreativeOne,CreativeTwo,CreativeThree,ProtfolioOne,ProtfolioTwo,ServiceOne,ServiceTwo,ServiceThree,WorkOne,WorkTwo,WorkThree,WorkFour,WorkFive,WorkSix,Blog}
